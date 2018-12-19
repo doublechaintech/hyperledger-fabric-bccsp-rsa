@@ -21,7 +21,7 @@ Fabric自发布到目前最新的1.3版本，一直只是支持ECDSA-secp256k1�
 双链科技本着使用开源，回馈开源社区的基本原则，经过代码重构、内部审核之后，今天公布其所有相关源代码并请求合并
 到Fabric主干中。
 
-#双链科技背景
+# 双链科技背景
 双链科技是一家以区块链技术改造集成供应链为使命的创新型科技公司，将以创新型技术和业务解决方案整合境内和跨境供应链资金流，物流，商流，信息流和人才流，并且利用区块链技术跨越企业边界，建立新型安全可信系统和新型价值连接。
 
 
@@ -30,6 +30,19 @@ Fabric自发布到目前最新的1.3版本，一直只是支持ECDSA-secp256k1�
 Hyperledger Fabric是一个许可的区块链构架(permissioned blockchain infrastructure)。其由IBM[8] 和Digital Asset最初贡献给Hyperledger项目。超级账本项目创立成员包括：荷兰银行、埃森哲、Calastone、思科、富士通、Guardtime、日立、IBM、英特尔、IntellectEU、JP摩根、NEC、NTT DATA等。除此之外，超级账本大中华区会员单位还包括阿里云，百度、万达集团、腾讯、华为、小米等。
 
 跟以太坊不同之处在于，Fabric允许政府监管机构为加入一个通道以实现对各笔交易实现实时监管同时保护企业商机机密。
+
+# 技术实现PPT
+
+[技术资料](/doc/Fabric-rsa-implementation-detail.pdf)
+
+
+
+[![](/images/1.png "")]
+[![](/images/2.png "")]
+[![](/images/3.png "")]
+[![](/images/4.png "")]
+
+
 
 # 名词解释和技术术语
 ￼
