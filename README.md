@@ -27,7 +27,7 @@ Fabric自发布到目前最新的1.3版本，一直只是支持ECDSA-secp256k1�
 
 
 # Hyperledger Fabric介绍
-Hyperledger Fabric是一个许可的区块链构架(permissioned blockchain infrastructure)。其由IBM[8] 和Digital Asset最初贡献给Hyperledger项目。超级账本项目创立成员包括：荷兰银行、埃森哲、Calastone、思科、富士通、Guardtime、日立、IBM、英特尔、IntellectEU、JP摩根、NEC、NTT DATA等。除此之外，超级账本大中华区会员单位还包括百度、万达集团、腾讯、华为、小米等
+Hyperledger Fabric是一个许可的区块链构架(permissioned blockchain infrastructure)。其由IBM[8] 和Digital Asset最初贡献给Hyperledger项目。超级账本项目创立成员包括：荷兰银行、埃森哲、Calastone、思科、富士通、Guardtime、日立、IBM、英特尔、IntellectEU、JP摩根、NEC、NTT DATA等。除此之外，超级账本大中华区会员单位还包括阿里云，百度、万达集团、腾讯、华为、小米等。
 
 # 名词解释和技术术语
 ￼
