@@ -7,22 +7,28 @@ Fabric自发布到目前最新的1.3版本，一直只是支持ECDSA-secp256k1�
 的证书，这个情况导致使用原生Fabric方案的国内技术提供商无法在法律上解决数字世界中独立法人机构和现实对等的义务
 和权利问题，亦无法解决金融机构之间数据交换的合规性问题。
 
+# 改造
 双链科技意识到这个是Fabric落地的主要障碍，决心改造Fabric，使联盟链在国内真正落地，让在区块链网络中多方权益受
 电子签名法保护。
 
 通过仔细分析超级账本Fabric 成员服务（MSP，Member Service Provider）源码，双链科技的工程师确定并且实施了
 改造方案，最终在近日首次测试成功，后又经过多轮验证，确认RSA正确集成到了超级账本Fabric中。
 
+#影响
+
 根据公开资料以及向超级账本中国社区求证，Fabric支持RSA证书尚属首次。
 
 双链科技本着使用开源，回馈开源社区的基本原则，经过代码重构、内部审核之后，今天公布其所有相关源代码并请求合并
 到Fabric主干中。
 
-
+#双链科技背景
 双链科技是一家以区块链技术改造集成供应链为使命的创新型科技公司，将以创新型技术和业务解决方案整合境内和跨境供应链资金流，物流，商流，信息流和人才流，并且利用区块链技术跨越企业边界，建立新型安全可信系统和新型价值连接。
 
 
-Hyperledger Fabric是一个许可的区块链构架(permissioned blockchain infrastructure)。其由IBM[8] 和Digital Asset最初贡献给Hyperledger项目。超级账本项目创立成员包括：荷兰银行、埃森哲、Calastone、思科、富士通、Guardtime、日立、IBM、英特尔、IntellectEU、JP摩根、NEC、NTT DATA等。除此之外，超级账本大中华区会员单位还包括百度、万达集团、腾讯、华为、小米等
+
+#Hyperledger Fabric介绍
+Hyperledger Fabric是一个许可的区块链构架(permissioned blockchain infrastructure)。其由IBM[8] 和Digital Asset最初贡献给Hyperledger项目。超级账本项目创立成员包括：荷兰银行、埃森哲、Calastone、思科、富士通、Guardtime、日立、IBM、英特尔、IntellectEU、JP摩根、NEC、NTT DATA等。除此之外，超级账本大中华区会员单位还包括百度、万达集团、腾讯、华为、小米等
+
 ￼
 RSA加密算法是一种非对称加密算法。在公开密钥加密和电子商业中RSA被广泛使用。
 
