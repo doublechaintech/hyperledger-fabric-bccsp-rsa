@@ -3,7 +3,7 @@
 经过多轮测试，双链科技在其股权管理区块链实验网中成功支持RSA证书。让Fabric支持RSA证书，
 使得双链科技可以正式为国际国内金融机构和非金融机构提供完整的跨组织、跨境商用联盟链解决方案。
 
-Fabric自发布到目前最新的1.1版本，一直只是支持ECDSA-secp256k1【1】，但是国内CA机构因为合规的原因无法提供该算法
+Fabric自发布到目前最新的1.3版本，一直只是支持ECDSA-secp256k1【1】，但是国内CA机构因为合规的原因无法提供该算法
 的证书，这个情况导致使用原生Fabric方案的国内技术提供商无法在法律上解决数字世界中独立法人机构和现实对等的义务
 和权利问题，亦无法解决金融机构之间数据交换的合规性问题。
 
@@ -33,8 +33,8 @@ RSA加密算法是一种非对称加密算法。在公开密钥加密和电子�
 ````
 参考资料
 
-【1】Fabric1.1 不支持RSA证书 http://hyperledger-fabric.readthedocs.io/en/release-1.1/msp.html， 截图
-【2】Fabric1.1 只支持ECDSA-secp256k1证书http://hyperledger-fabric.readthedocs.io/en/release-1.1/msp.html
+【1】Fabric1.1 不支持RSA证书 http://hyperledger-fabric.readthedocs.io/en/release-1.3/msp.html， 截图
+【2】Fabric1.1 只支持ECDSA-secp256k1证书http://hyperledger-fabric.readthedocs.io/en/release-1.3/msp.html
 【3】来自维基百科
 【4】来自维基百科
 
