@@ -30,7 +30,7 @@ RSA加密算法是一种非对称加密算法。在公开密钥加密和电子�
 椭圆曲线算法简单的说就是用X和Y坐标画一个曲线。这个曲线怎么画，需要很多个参数来确定。以太坊使用了一套叫secp256k1的参数确定了椭圆的形状。所以，以太坊的签名算法全称就是是ECDSA-secp256k1。 目前尚无有牌照的机构颁发此证书。
 
 
-
+````
 参考资料
 
 【1】Fabric1.1 不支持RSA证书 http://hyperledger-fabric.readthedocs.io/en/release-1.1/msp.html， 截图
@@ -39,3 +39,4 @@ RSA加密算法是一种非对称加密算法。在公开密钥加密和电子�
 【4】来自维基百科
 
 A RSA toolchain to allow Hyperledger Fabric support RSA certificates
+````
