@@ -37,10 +37,10 @@ Hyperledger Fabric是一个许可的区块链构架(permissioned blockchain infr
 
 
 
-[![](/images/5.png "")]
-[![](/images/6.png "")]
-[![](/images/7.png "")]
-[![](/images/8.png "")]
+![](/images/5.png "1")
+![](/images/6.png "2")
+![](/images/7.png "3")
+![](/images/8.png "4")
 
 
 
