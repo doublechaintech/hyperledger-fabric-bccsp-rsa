@@ -4,13 +4,13 @@ This docment introduce how to use the rsa certs in fabric.
 The OOTB fabric uses ecc , and we will use the plugin factory and  create the rsa plugin  to support the rsa certs.
 
 ## Prerequisites
-install go   version 1.11.x is required.
+* install go   version 1.11.x is required.
 https://golang.org/dl/
 
-install make
+* install make
 we will use make to compile the  peer/order etc bin.
 
-install git
+* install git
 we will use git to download the  fabric code base.
 
 
